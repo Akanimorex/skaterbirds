@@ -7887,6 +7887,7 @@ a {
     margin-left: 0px;
     background-color: rgba(255, 249, 240, 0.5);
     width: 100%;
+    font-size: 1rem;
   }
 
   .div-flex {
@@ -9248,6 +9249,7 @@ a {
     -ms-flex-align: center;
     align-items: center;
     width: 100%;
+    font-size: 1rem;
   }
   .div-flex {
     width: 100%;
